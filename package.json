@@ -1,5 +1,4 @@
 {
-  "homepage": "https://Dan-Harper.github.io/blog",
   "private": true,
   "scripts": {
     "predeploy": "npm run build",
